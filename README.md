@@ -1,8 +1,8 @@
-# Casper
+# Caspian-Casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Modifcation of the default theme ([Casper](https://github.com/TryGhost/Casper)) for [Ghost](http://github.com/tryghost/ghost/).
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+To download, visit the [releases](https://github.com/caspian154/caspian-casper/releases) page.
 
 ## Copyright & License
 
